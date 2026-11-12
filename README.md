@@ -22,7 +22,7 @@ My passion is building robots from scratch and solving complex engineering probl
 - **B.Eng. Automatic Control and Robotics**, Poznań University of Technology (2023 – present)
 
 <!-- ==================== SECTION 4: PROJECTS ==================== -->
-### Selected projects
+### Selected personal projects
 
 - [**Cable-driven lunar crane**](https://github.com/maksm17/cable_driven_lunar_crane): full-scale lunar crane built from scratch, controlled with MPC
 - [**FOC driver**](https://github.com/maksm17/foc_driver): custom field-oriented control (FOC) motor driver with a CAN FD interface
