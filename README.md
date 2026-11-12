@@ -19,7 +19,7 @@ My passion is building robots from scratch and solving complex engineering probl
 <!-- ==================== SECTION 3: EDUCATION ==================== -->
 ### Education
 
-- **B.Eng. Automatic Control and Robotics**, Poznań University of Technology ( 2023 – present)
+- **B.Eng. Automatic Control and Robotics**, Poznań University of Technology (2023 – present)
 
 <!-- ==================== SECTION 4: PROJECTS ==================== -->
 ### Selected projects
@@ -59,4 +59,4 @@ More details and photos: **[maksm17.github.io](https://maksm17.github.io)**
 <!-- ==================== SECTION 6: CONTACT ==================== -->
 ### Contact
 
-[Email](mailto:maksmajdanski@gmail.com) · [LinkedIn](https://www.linkedin.com/in/▶your-linkedin) · [Website](https://maksm17.github.io)
+[Email](mailto:maksmajdanski@gmail.com) · [LinkedIn](www.linkedin.com/in/maksymilian-majdanski-64629738b) · [Website](https://maksm17.github.io)
