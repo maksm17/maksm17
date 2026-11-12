@@ -19,15 +19,15 @@ My passion is building robots from scratch and solving complex engineering probl
 <!-- ==================== SECTION 3: EDUCATION ==================== -->
 ### Education
 
-- **B.Eng. Automatic Control and Robotics**, Poznań University of Technology (▶ 2023 – present)
+- **B.Eng. Automatic Control and Robotics**, Poznań University of Technology ( 2023 – present)
 
 <!-- ==================== SECTION 4: PROJECTS ==================== -->
 ### Selected projects
 
-- [**Cable-driven lunar crane**](https://github.com/maksm17/cable_driven_lunar_crane): ▶ one-line description
-- [**FOC driver**](https://github.com/maksm17/foc_driver): field-oriented control motor driver ▶ add details (MCU, power, interface)
-- [**QDD actuator**](https://github.com/maksm17/▶qdd_actuator): quasi-direct-drive actuator for legged robots ▶ add details
-- [**Biped**](https://github.com/maksm17/▶biped): bipedal robot ▶ add details
+- [**Cable-driven lunar crane**](https://github.com/maksm17/cable_driven_lunar_crane): full-scale lunar crane built from scratch, controlled with MPC
+- [**FOC driver**](https://github.com/maksm17/foc_driver): custom field-oriented control (FOC) motor driver with a CAN FD interface
+- [**QDD actuator**](https://github.com/maksm17/qdd_actuator): quasi-direct-drive actuator for full-scale legged robots
+- [**Biped**](https://github.com/maksm17/zurich_physical_ai_hackaton): bipedal robot built during the Physical AI Hackathon in Zurich, controlled with residual RL
 
 More details and photos: **[maksm17.github.io](https://maksm17.github.io)**
 
