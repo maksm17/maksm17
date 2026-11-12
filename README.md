@@ -59,4 +59,4 @@ More details and photos: **[maksm17.github.io](https://maksm17.github.io)**
 <!-- ==================== SECTION 6: CONTACT ==================== -->
 ### Contact
 
-[Email](mailto:maksmajdanski@gmail.com) · [LinkedIn](www.linkedin.com/in/maksymilian-majdanski-64629738b) · [Website](https://maksm17.github.io)
+[Email](mailto:maksmajdanski@gmail.com) · [LinkedIn](https://www.linkedin.com/in/maksymilian-majdanski-64629738b/) · [Website](https://maksm17.github.io)
